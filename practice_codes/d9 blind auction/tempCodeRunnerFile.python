@@ -1,0 +1,4 @@
+list =[]
+list.append(23423)
+list.append(23)
+print(list)
